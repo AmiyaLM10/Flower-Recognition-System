@@ -30,8 +30,7 @@ This system enhances automation in botanical classification by leveraging convol
 - 🐍 **Python** – Core programming language for development and scripting.  
 - 🧠 **TensorFlow / Keras** – For building and training the Convolutional Neural Network (CNN) model.  
 - 📦 **NumPy & Pandas** – For data manipulation and preprocessing.  
-- 🖼️ **Matplotlib & Seaborn** – To visualize training accuracy, loss, and sample predictions.  
-- 🗂️ **ImageDataset API** – For loading and managing image datasets efficiently.  
+- 🖼️ **Matplotlib & Seaborn** – To visualize training accuracy, loss, and sample predictions.    
 - 💻 **Google Colab / Jupyter Notebook** – Development and testing environment.
 
 ---
